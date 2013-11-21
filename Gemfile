@@ -34,6 +34,8 @@ gem 'high_voltage'
 gem 'simple_form'
 gem 'better_errors'
 gem 'quiet_assets'
+gem 'activerecord-tableless'
+gem 'google_drive'
 #gem 'pg'
 
 
