@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+ruby '2.0.0'
+
 gem 'rails'
 
 group :production do
@@ -42,7 +44,7 @@ gem 'quiet_assets'
 gem 'activerecord-tableless'
 gem 'google_drive'
 #gem 'pg'
-
+gem 'rails_12factor'
 
 
 group :doc do
