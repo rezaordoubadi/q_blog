@@ -45,6 +45,7 @@ gem 'activerecord-tableless'
 gem 'google_drive'
 #gem 'pg'
 gem 'rails_12factor'
+gem 'heroku'
 
 
 group :doc do
